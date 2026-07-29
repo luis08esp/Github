@@ -1,0 +1,5 @@
+palabra = input("Ingresa una palabra: ")
+
+cantidad = palabra.lower().count("a")
+
+print("Cantidad de letras 'a':", cantidad)

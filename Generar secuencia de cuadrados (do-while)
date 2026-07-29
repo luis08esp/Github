@@ -1,0 +1,9 @@
+numero = 1
+
+while True:
+    print(numero ** 2)
+
+    numero += 1
+
+    if numero > 10:
+        break
